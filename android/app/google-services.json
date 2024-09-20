@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422043105422",
+    "project_id": "cubit-15f86",
+    "storage_bucket": "cubit-15f86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422043105422:android:1e8a83fd9dd690f14171df",
+        "android_client_info": {
+          "package_name": "com.example.cubit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDypEWgy551heCSmm_Lf0owvmFEqpe4qIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
